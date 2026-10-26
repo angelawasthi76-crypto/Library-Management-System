@@ -97,10 +97,3 @@ This project can help demonstrate practical experience with:
 - Add authentication and role-based access control, if not already implemented
 - Document database initialization and sample data setup
 
-## Attribution
-
-This repository is based on the original project by [shubhams14-dev](https://github.com/shubhams14-dev/Library-Management-System). Please refer to the original repository's license and preserve any required copyright notices.
-
-## License
-
-Refer to the license included in the repository. If no license is provided, contact the original author regarding reuse and redistribution permissions.
